@@ -4,7 +4,8 @@ A sophisticated document search engine built with Flask and React that implement
 
 ## DEMO VIDEO
 
-[![Project Demo Video](https://www.youtube.com/watch?v=ahWYop10nA0)]
+[![Project Demo Video](https://img.youtube.com/vi/ahWYop10nA0/0.jpg)](https://www.youtube.com/watch?v=ahWYop10nA0)
+
 
 *Click the image above to watch the full demo video*
 
